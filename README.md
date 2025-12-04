@@ -1,6 +1,3 @@
 college_demo
-
-
-My first git repository.
-
+My first git repositorY.
 Author - Lalit Dhiman.
