@@ -1,4 +1,4 @@
 college_demo
 
 
-my first github repositories
+my first git repository
